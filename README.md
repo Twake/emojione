@@ -1,4 +1,4 @@
-![Archived](https://img.shields.io/badge/Current_Status-archived-brightgreen?style=flat)
+![Archived](https://img.shields.io/badge/Current_Status-archived-blue?style=flat)
 # This repository is now maintained as JoyPixels/emoji-toolkit.
 You'll find the latest version of our resources at [emoji-toolkit](https://github.com/joypixels/emoji-toolkit). Please see the [UPGRADE README](https://github.com/joypixels/emoji-toolkit/blob/master/UPGRADE.md) for important information on what's changed from this repository. Thank you! 
 
